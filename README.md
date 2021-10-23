@@ -9,4 +9,4 @@ Treemap
 <br>Bubble map
 <br>Animation (Worldwide COVID19 Cases)
 
-To see contents of this project please click this link  
+To see contents of this project please click this link https://patrickmugisha.github.io/InteractiveDataVisualization_plotly.github.io/
